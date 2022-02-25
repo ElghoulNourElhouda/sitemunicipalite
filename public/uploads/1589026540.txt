@@ -1,0 +1,20 @@
+site Web d'une société de Consulting informatique avec espace membre, espace candidature avec envoi de Cv et un formulaire de contact
+fih 3 acteur:bhi tache authentification w inscription lkol
+
+Candidature
+gere compte mta3a 
+consulter les offres(tjih liste kima actualite ehbto)
+envoyer cv par email(reponse 3la cv t9bl wla 3la email tosl)
+notification 3la email ki tabda fama mssage jdid
+envoyer et recevoir des messages
+ Adminstrateur:
+webmaster enjm ebdel fi interfacet mt3 site w donnne mta3a 
+agent:
+ajouter + modifier +supprimer offre
+consulter cv envoyer par condidateur
+gere compte (modifier mot de passe)
+repondre et recevoir des messages
+
+ 
+
+

@@ -1,0 +1,85 @@
+        body{
+    font-family: 'Roboto', sans-serif;
+}
+        center>img{
+           
+            position: relative;
+margin-top: -24%;
+             transition: all 1.5s ease-out;
+        }
+p.caption{
+    letter-spacing: 0.15em;
+}
+        .well{
+            background: #fff;
+            box-shadow: 0 0 0 0;
+            border: 0px;
+        }
+        .jumbotron{
+            background: #fff;
+        }
+        
+        .base-padding{
+            padding: 3% 0;
+        }
+        .well.pricing-table{
+/*            padding: 3%;*/
+            background: #fff;
+            transition:all 0.4s ease-in;
+        }
+          .well.pricing-table:hover{
+                box-shadow:-22px 17px 6px rgba(178, 171, 171, 0.39);
+                  transition:all 1s ease-in;
+                
+              }
+        
+        .pricing-feature-list{
+            padding: 10%;
+            background: #444;
+            color: #eee;
+        }
+       .pricing-feature-list .list-group-item {
+position: relative;
+display: block;
+padding: 13px 15px;
+margin-bottom: -1px;
+background-color: #444;
+/* border: 1px solid #6B6B6B; */
+font-size: 15px;
+           border: 1px solid #444;
+           color: #eee;
+/* font-weight: 700; */
+
+}
+        .pricing-table .pricing-table-holder{
+/*            background: #f9f9f9;*/
+            background: url('https://photos-1.dropbox.com/t/2/AACCPJ9m57rbGWc_MCafZdl_PJ_Obe5RT5h6vCC2AgVd_A/12/21457980/jpeg/32x32/3/_/1/2/cyan-pentagonal-background.jpg/CLzYnQogASACIAMoAQ/R7WUFO9GypFsA2Vky1-Q8oSfizbkYKau5N9LHpAUtq0?size=1280x960') center center ;
+            background-size: cover;
+            padding: 6%;
+        }
+.pricing-table .pricing-table-holder h3,.pricing-table .pricing-table-holder p{
+    color: #eee;
+}
+        .btn-info{
+            color: #fff;
+background-color: #E57575;
+border-color: #F95353;
+/* border-radius: 0; */
+padding: 3%;
+transition: all 0.6s ease-in;
+        }
+        .custom-button-group{
+            
+background: #f9f9f9;
+padding: 0%;
+        }
+        .btn-royal-blue{
+            color: #FFF;
+background-color: #23A4F2;
+border-color: #23A4F2;
+                        transition: all 0.4s ease-in;
+        }
+        .btn-royal-blue:hover{
+            color: #eee;
+            transition: all 0.5s ease-in;
+        }
